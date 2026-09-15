@@ -22,7 +22,8 @@ Deepening hands-on experience with terminals, APIs, and the Node.js/TypeScript e
 
 Revenue Operations / Business Operations Analyst and Data/BI Analyst roles, Boston area.
 
-## Links
+## Links / Contact
 
 - LinkedIn: [https://www.linkedin.com/in/megan-amanda-rogers/]
 - Resume: [https://www.linkedin.com/in/megan-amanda-rogers/overlay/1788910841694/single-media-viewer?profileId=ACoAAD_q7iwBU21kcfCgturfgSSNbovgJBfCtSc]
+- Email: [megrogers095@gmail.com]
